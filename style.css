@@ -106,8 +106,8 @@ main {
 .header {
     display: grid;
     grid-template-rows: 1fr 2fr;
-    align-items: center;
     padding: 32px;
+    gap: 32px;
 }
 
 .search {
@@ -155,3 +155,34 @@ main {
     border-radius: 50%;
 }
 
+.welcome {
+    height: 64px;
+    width: 64px;
+    border-radius: 50%;
+}
+
+.hello {
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+}
+
+.hello-text {
+    display: flex;
+    gap: 16px;
+}
+
+.hello-buttons {
+    display: flex;
+    align-items: end;
+    gap: 16px;
+}
+
+.hello-buttons button {
+    border: none;
+    background-color: var(--blue);
+    color: white;
+    padding: 8px 32px;
+    border-radius: 32px;
+    cursor: pointer;
+}
