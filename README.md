@@ -41,7 +41,7 @@ Below is a list of the major tools and languages utilized:
 
 ## Try It
 
-[Visit Dashboard](https://sohankancherla.github.io/calculator/)
+[Visit Dashboard](https://sohankancherla.github.io/admin-dashboard/)
 
 ## Authors
 
@@ -49,7 +49,6 @@ Below is a list of the major tools and languages utilized:
 
 ## Acknowledgements
 
-* UI Design: [Dmitry Sergushkin](https://dribbble.com/shots/20330398-Case-study-Sign-up-form)
-* Icons: [Icons8](https://icons8.com/)
-* Icons: [heroicons](https://heroicons.com/)
+* UI Design: [The Odin Project]([https://dribbble.com/shots/20330398-Case-study-Sign-up-form](https://www.theodinproject.com/))
+* Icons: [Pictogrammers](https://pictogrammers.com/library/mdi/)
 * Idea: [The Odin Project](https://www.theodinproject.com/)
