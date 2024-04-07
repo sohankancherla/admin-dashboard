@@ -19,9 +19,9 @@
 
 ## About The Project
 
-This is an example sign up form for a jewelry website. The UI is desgined by Dmitry Sergushkin on Dribble. The form performs manual validation of the name, email, and password inputs. 
+The admin dashboard layout is a non functional dashboard layout I created to practice CSS Grid. The UI is designed by The Odin Project.
 
-The project is part of [The Odin Project's Foundations course](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-sign-up-form).
+The project is part of [The Odin Project's Foundations course](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard/).
 
 #### UI Design
 ![ui-design](https://github.com/sohankancherla/sign-up/assets/30853467/87755df9-d4d9-4115-933d-25ca7cb9a602)
