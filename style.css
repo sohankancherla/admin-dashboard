@@ -199,7 +199,7 @@ main {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     gap: 16px;
-    margin: 8px;
+    margin: 8px 0px;
 }
 
 .card {
@@ -248,10 +248,13 @@ main {
     display: flex;
     flex-direction: column;
     gap: 16px;
-    margin: 8px;
+    margin: 8px 0px;
 }
 
 .right-card {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
     background-color: white;
     border-radius: 8px;
     padding: 32px;
