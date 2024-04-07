@@ -264,3 +264,23 @@ main {
     color: gray;
     font-size: 14px;
 }
+
+.m {
+    margin-top: 32px;
+    margin-bottom: 8px;
+}
+
+.line {
+    display: flex;
+    gap: 16px;
+}
+
+.trending {
+    height: 48px;
+    width: 48px;
+    border-radius: 50%;
+}
+
+.right-card .tag {
+    color: black;
+}
