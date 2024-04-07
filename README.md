@@ -19,15 +19,17 @@
 
 ## About The Project
 
-The admin dashboard layout is a non functional dashboard layout I created to practice CSS Grid. The UI is designed by The Odin Project.
+The admin dashboard is a non functional dashboard layout I created to practice CSS Grid. The UI is designed by The Odin Project.
 
 The project is part of [The Odin Project's Foundations course](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard/).
 
 #### UI Design
-![ui-design](https://github.com/sohankancherla/sign-up/assets/30853467/87755df9-d4d9-4115-933d-25ca7cb9a602)
+![image](https://github.com/sohankancherla/admin-dashboard/assets/30853467/f23d42e5-ba94-4c0f-ac6c-0546fa566c62)
+
 
 #### Website
-<img width="1415" alt="Screenshot 2024-04-02 at 1 42 55 PM" src="https://github.com/sohankancherla/sign-up/assets/30853467/66b626bb-7b03-455f-a79a-6b7565d41c1c">
+![image](https://github.com/sohankancherla/admin-dashboard/assets/30853467/0df53873-536f-4e5d-a105-a832de8f89d1)
+
 
 
 ## Built With
